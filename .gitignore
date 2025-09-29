@@ -1,0 +1,17 @@
+.idea/
+*.iml
+
+.vscode/
+.history/
+*.code-workspace
+
+.project
+.classpath
+.settings/
+
+*.sublime-workspace
+*.sublime-project
+
+.DS_Store
+
+Thumbs.db
